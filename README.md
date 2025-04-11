@@ -7,4 +7,4 @@
 
 - 🔭 golang junior backend developer
 - 🌱 would like to contribute to llm related programs
-- 📫 connect to me: xiajincqu@163.com
+- 📫 connect me: xiajincqu@163.com
